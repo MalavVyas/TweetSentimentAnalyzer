@@ -4,6 +4,6 @@ Analyzing tweets for sentiments on specific topic or trends with TextBlob and Tw
 
 Get your developer credentials from tweeter and add it to 1.py
 
-change Trump to any topic you want to analyze
+change topic to any topic you want to analyze
 
 python 1.py
